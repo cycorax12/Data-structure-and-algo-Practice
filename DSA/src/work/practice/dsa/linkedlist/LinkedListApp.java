@@ -12,6 +12,7 @@ public class LinkedListApp {
 
 	// choice 1 = for cycle/loop in linkedlist
 	// choice 0 = simple linkedlist insert and display
+	// choice 2 = merge/join point for two linked list
 
 	public static void main(String[] args) {
 		LinkedList list1 = new LinkedList();
